@@ -1,7 +1,7 @@
 # Lost Number - Exercise
 
 ## Problem Description - Part I
-Given a sequence of string-numbers, from x to N, which could be disordered. This sequence represents a consecutive interval of numbers, where one is missing in the interval. The challenge is to find the missing number.
+Given a sequence of string-numbers, from x to N, which could be disordered. This sequence represents a closed interval of consecutive numbers, where one is missing in the interval. The challenge is to find the missing number.
 
 Examples:
   - Given the array `["13", "11", "9", "10"]`, which sorted is `["9", "10", "11", "13"]`, the method should return `12`.  
